@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200133783914",
+    "project_id": "diu-transport-8a375",
+    "storage_bucket": "diu-transport-8a375.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200133783914:android:2e00e9ecca9d6bd0d9b513",
+        "android_client_info": {
+          "package_name": "com.example.diu_transport_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHKP70dRGpGfY3GbzGZSYzyShAUAo8Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
