@@ -41,7 +41,7 @@ class _GetStartedScreenState extends State<GetStartedScreen> {
             ),
             SizedBox(height: 5),
             Text(
-              'All rights resevred by@Avisheikh ',
+              'All rights resevred by @Binary Brigade ',
               style: TextStyle(fontSize: 18),
             ),
           ],
