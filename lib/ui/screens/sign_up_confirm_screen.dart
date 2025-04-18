@@ -16,7 +16,7 @@ class _SignUpConfirmScreenState extends State<SignUpConfirmScreen> {
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.end,
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
               'Confirm Your Account',
